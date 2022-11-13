@@ -1,3 +1,8 @@
 body {
-    background: #DFFF00;
-  }
+    background: #5D596F;
+}
+
+img {
+    float: right;
+    padding: 20px;
+}
