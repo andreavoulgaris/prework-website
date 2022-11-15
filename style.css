@@ -6,3 +6,8 @@ img {
     float: right;
     padding: 20px;
 }
+
+#dark-theme {
+    display: block;
+    margin-top: 15px;
+}
